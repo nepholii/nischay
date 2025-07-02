@@ -1,0 +1,2 @@
+laravel installation 
+git connection and setup
