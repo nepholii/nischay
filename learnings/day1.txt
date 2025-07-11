@@ -1,3 +1,9 @@
 laravel installation 
 git connection and setup
 ewfddfasd
+
+
+
+user seed
+genre index
+movies index
